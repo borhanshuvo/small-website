@@ -1,1 +1,1 @@
-# personal-website
+# small-website
